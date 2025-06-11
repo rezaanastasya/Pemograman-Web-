@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Struktur Dasar HTML</title>
+</head>
+<body>
+    <h1>Ini adalah Struktur Dasar HTML</h1>
+    <p>Semua dokumen HTML diawali dengan deklarasi DOCTYPE, lalu tag html, head, dan body.</p>
+</body>
+</html>
