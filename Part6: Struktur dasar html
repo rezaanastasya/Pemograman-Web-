@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="id">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Struktur Dasar HTML</title>
 </head>
 <body>
-    <h1>Ini adalah Struktur Dasar HTML</h1>
-    <p>Semua dokumen HTML diawali dengan deklarasi DOCTYPE, lalu tag html, head, dan body.</p>
+    <h1>Selamat Datang di Website Belajar HTML</h1>
+    <p>Ini adalah halaman pertama dengan struktur dasar HTML. Semua halaman HTML wajib memiliki struktur seperti ini agar bisa ditampilkan dengan benar di browser.</p>
 </body>
 </html>
