@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Daftar List HTML</title>
+</head>
+<body>
+    <h1>Jenis-jenis Buah</h1>
+    <h2>Daftar Tidak Berurutan:</h2>
+    <ul>
+        <li>Apel</li>
+        <li>Pisang</li>
+        <li>Jeruk</li>
+    </ul>
+
+    <h2>Langkah Membuat Jus Buah (Daftar Berurutan):</h2>
+    <ol>
+        <li>Cuci buah hingga bersih</li>
+        <li>Potong kecil-kecil</li>
+        <li>Masukkan ke blender</li>
+        <li>Tambahkan air dan es</li>
+        <li>Blender dan sajikan</li>
+    </ol>
+</body>
+</html>
