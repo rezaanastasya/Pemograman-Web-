@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Form HTML</title>
+</head>
+<body>
+    <h1>Formulir Pendaftaran</h1>
+    <form action="/proses.php" method="post">
+        <label for="nama">Nama Lengkap:</label><br>
+        <input type="text" id="nama" name="nama" required><br><br>
+
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <label for="jurusan">Pilih Jurusan:</label><br>
+        <select id="jurusan" name="jurusan">
+            <option value="TI">Teknik Informatika</option>
+            <option value="SI">Sistem Informasi</option>
+        </select><br><br>
+
+        <input type="submit" value="Daftar">
+    </form>
+</body>
+</html>
