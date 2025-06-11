@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Belajar Link HTML</title>
+</head>
+<body>
+    <h1>Contoh Penggunaan Link</h1>
+    <p>Klik link di bawah ini untuk mengunjungi situs pembelajaran HTML:</p>
+    <a href="https://www.duniailkom.com/tutorial-belajar-html-dan-index-artikel-html/" target="_blank">Buka Duniailkom</a>
+</body>
+</html>
