@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Judul Heading</title>
+</head>
+<body>
+    <h1>Judul Utama Website</h1>
+    <h2>Subjudul Artikel</h2>
+    <h3>Bagian Pembuka</h3>
+    <h4>Pembahasan Topik</h4>
+    <h5>Detail Tambahan</h5>
+    <h6>Catatan Kaki</h6>
+    <p>Heading atau judul membantu pembaca memahami struktur dan isi halaman.</p>
+</body>
+</html>
