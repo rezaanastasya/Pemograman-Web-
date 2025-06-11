@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Menampilkan Gambar</title>
+</head>
+<body>
+    <h1>Foto Pemandangan</h1>
+    <img src="https://via.placeholder.com/500x300.png?text=Contoh+Gambar" alt="Pemandangan Alam" width="500">
+    <p>Gambar di atas hanya contoh. Kamu bisa mengganti link gambar sesuai kebutuhanmu.</p>
+</body>
+</html>
