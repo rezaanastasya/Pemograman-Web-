@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Belajar Paragraf</title>
+</head>
+<body>
+    <h1>Penggunaan Paragraf</h1>
+    <p>HTML digunakan untuk membuat struktur halaman website. Salah satu elemen dasar dalam HTML adalah paragraf.</p>
+    <p>Tag &lt;p&gt; digunakan untuk membuat paragraf baru. Setiap paragraf akan otomatis dipisahkan oleh jarak antar baris.</p>
+</body>
+</html>
