@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Tabel HTML</title>
+</head>
+<body>
+    <h1>Data Nilai Mahasiswa</h1>
+    <table border="1" cellpadding="10">
+        <tr>
+            <th>Nama</th>
+            <th>Mata Kuliah</th>
+            <th>Nilai</th>
+        </tr>
+        <tr>
+            <td>Sinta</td>
+            <td>Web Programming</td>
+            <td>90</td>
+        </tr>
+        <tr>
+            <td>Budi</td>
+            <td>Basis Data</td>
+            <td>85</td>
+        </tr>
+    </table>
+</body>
+</html>
