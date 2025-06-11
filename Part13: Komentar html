@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Komentar HTML</title>
+</head>
+<body>
+    <!-- Ini adalah komentar. Komentar tidak terlihat di browser. -->
+    <h1>Belajar Komentar di HTML</h1>
+    <p>Komentar sangat berguna untuk memberi catatan pada kode, apalagi saat proyek besar.</p>
+</body>
+</html>
